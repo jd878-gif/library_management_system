@@ -6,3 +6,5 @@ __pycache__/
 *.zip
 *.exe
 mysql-9.7.0-winx64/
+airflow/logs/
+airflow/config/
